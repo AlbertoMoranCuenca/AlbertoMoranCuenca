@@ -64,6 +64,8 @@
   <img width="30" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
   <img width="30" />
+  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="40" alt="astro logo"  />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
 </div>
 
