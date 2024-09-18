@@ -1,8 +1,9 @@
 <div align="center">
-  <img width="100%" src="https://github.com/user-attachments/assets/997e0526-9101-45cc-9a8a-f62f4851a2e7"  />
+  <img width="100%" src="https://github.com/user-attachments/assets/c30f39e9-fc9b-48fc-b34c-f3cb8ade9c56"  />
 </div>
 
 ###
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alberto-mor%C3%A1n-cuenca" target="_blank">
